@@ -1,0 +1,17 @@
+.die-container{
+    background-color: white;
+
+    min-width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 2px rgb(211, 202, 202);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.die-number{
+    font-size: 62px;
+    font-weight: 700;
+}
+
